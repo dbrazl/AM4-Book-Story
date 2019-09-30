@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import PropTypes from 'prop-types';
 
 import bg from '../../assets/bg-main.png';
 
@@ -20,7 +21,7 @@ import {
     Background,
 } from './styles';
 
-export default function Main() {
+export default function Main(props) {
     const [data, setData] = useState([]);
 
     useEffect(() => {
@@ -45,6 +46,12 @@ export default function Main() {
         return response;
     }
 
+    function handleSelectedBook(item) {
+        const { navigation } = props;
+
+        navigation.navigate('Product', { item });
+    }
+
     return (
         <Container>
             <Background source={bg} />
@@ -54,7 +61,7 @@ export default function Main() {
                 keyExtractor={book => book.id}
                 horizontal
                 renderItem={({ item }) => (
-                    <Book>
+                    <Book onPress={() => handleSelectedBook(item)}>
                         <Poster source={{ uri: item.poster }} />
                         <Info>
                             <BookTitle>{item.title}</BookTitle>
@@ -76,4 +83,10 @@ Main.navigationOptions = {
     tabBarIcon: ({ tintColor }) => (
         <Icon name="home-outline" size={20} color={tintColor} />
     ),
+};
+
+Main.propTypes = {
+    navigation: PropTypes.shape({
+        navigate: PropTypes.func,
+    }).isRequired,
 };
