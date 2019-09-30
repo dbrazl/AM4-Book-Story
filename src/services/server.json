@@ -1,0 +1,84 @@
+{
+    "highlights": [
+        {
+            "id": 1,
+            "title": "Harry Potter e a Criança Amaldiçoada",
+            "originalTitle": "Harry Potter and cursed child",
+            "genre": "INFANTO JUVENIL",
+            "age": "12 ANOS",
+            "author": "J.K.ROWLING",
+            "origin": "INGLATERRA",
+            "stars": 5,
+            "poster": "https://images-na.ssl-images-amazon.com/images/I/51dVs7eiL-L.jpg",
+            "description": "Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. Enquanto Harry lida com um passado que se recusa a ficar para trás, seu filho mais novo, Alvo, deve lutar com o peso de um legado de família que ele nunca quis. À medida que passado e presente se fundem de forma ameaçadora, ambos, pai e filho, aprendem uma incômodaverdade: às vezesas trevas vêmde lugares inesperados.",
+            "price": 25.9
+        },
+        {
+            "id": 2,
+            "title": "Cidade dos Ossos: Instrumentos Mortais",
+            "originalTitle": "The Mortal Instruments: City of Bones",
+            "genre": "FANTASIA/AVENTURA",
+            "age": "16 ANOS",
+            "author": "C. CLARE, R. SUSSEKIND",
+            "origin": "ESTADOS UNIDOS",
+            "stars": 4,
+            "poster": "https://statics.livrariacultura.net.br/products/capas_lg/198/22190198.jpg",
+            "description": "O primeiro volume da série best-seller Os Instrumentos Mortais, de Cassandra Clare Depois ser apresentada ao Mundo de Sombras e a Jace ― um Caçador que tem a aparência de um anjo, mas a língua tão afiada quanto Lúcifer ―, Clary Fray só queria que sua vida voltasse ao normal. Mas o que é “normal” quando você é uma Caçadora de Sombras assassina de demônios, sua mãe está em um coma magicamente induzido e você de repente descobre que criaturas como lobisomens, vampiros e fadas realmente existem? Para complicar ainda mais, alguém na cidade de Nova York está matando jovens do Submundo. Quando o segundo dos Instrumentos Mortais, a Espada da Alma, é roubada, a aterrorizante Inquisidora chega ao Instituto para investigar ― e suas suspeitas caem diretamente sobre Jace. Como Clary pode impedir os planos malignos de Valentim se Jace está disposto a trair tudo aquilo em que acredita para ajudar o pai? Nessa sequência de tirar o fôlego da série Os Instrumentos Mortais, Cassandra Clare atrai os leitores de volta para o lado mais obscuro do submundo de Nova York, onde amar nunca é seguro e o poder se torna a mais mortal das tentações.",
+            "price": 25.9
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Harry Potter e a Criança Amaldiçoada",
+            "originalTitle": "Harry Potter and cursed child",
+            "genre": "INFANTO JUVENIL",
+            "age": "12 ANOS",
+            "author": "J.K.ROWLING",
+            "origin": "INGLATERRA",
+            "stars": 5,
+            "poster": "https://images-na.ssl-images-amazon.com/images/I/51dVs7eiL-L.jpg",
+            "description": "Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. Enquanto Harry lida com um passado que se recusa a ficar para trás, seu filho mais novo, Alvo, deve lutar com o peso de um legado de família que ele nunca quis. À medida que passado e presente se fundem de forma ameaçadora, ambos, pai e filho, aprendem uma incômodaverdade: às vezesas trevas vêmde lugares inesperados.",
+            "price": 25.9
+        },
+        {
+            "id": 2,
+            "title": "Cidade dos Ossos: Instrumentos Mortais",
+            "originalTitle": "The Mortal Instruments: City of Bones",
+            "genre": "FANTASIA/AVENTURA",
+            "age": "16 ANOS",
+            "author": "C. CLARE, R. SUSSEKIND",
+            "origin": "ESTADOS UNIDOS",
+            "stars": 4,
+            "poster": "https://statics.livrariacultura.net.br/products/capas_lg/198/22190198.jpg",
+            "description": "O primeiro volume da série best-seller Os Instrumentos Mortais, de Cassandra Clare Depois ser apresentada ao Mundo de Sombras e a Jace ― um Caçador que tem a aparência de um anjo, mas a língua tão afiada quanto Lúcifer ―, Clary Fray só queria que sua vida voltasse ao normal. Mas o que é “normal” quando você é uma Caçadora de Sombras assassina de demônios, sua mãe está em um coma magicamente induzido e você de repente descobre que criaturas como lobisomens, vampiros e fadas realmente existem? Para complicar ainda mais, alguém na cidade de Nova York está matando jovens do Submundo. Quando o segundo dos Instrumentos Mortais, a Espada da Alma, é roubada, a aterrorizante Inquisidora chega ao Instituto para investigar ― e suas suspeitas caem diretamente sobre Jace. Como Clary pode impedir os planos malignos de Valentim se Jace está disposto a trair tudo aquilo em que acredita para ajudar o pai? Nessa sequência de tirar o fôlego da série Os Instrumentos Mortais, Cassandra Clare atrai os leitores de volta para o lado mais obscuro do submundo de Nova York, onde amar nunca é seguro e o poder se torna a mais mortal das tentações.",
+            "price": 25.9
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter e a Criança Amaldiçoada",
+            "originalTitle": "Harry Potter and cursed child",
+            "genre": "INFANTO JUVENIL",
+            "age": "12 ANOS",
+            "author": "J.K.ROWLING",
+            "origin": "INGLATERRA",
+            "stars": 5,
+            "poster": "https://images-na.ssl-images-amazon.com/images/I/51dVs7eiL-L.jpg",
+            "description": "Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. Enquanto Harry lida com um passado que se recusa a ficar para trás, seu filho mais novo, Alvo, deve lutar com o peso de um legado de família que ele nunca quis. À medida que passado e presente se fundem de forma ameaçadora, ambos, pai e filho, aprendem uma incômodaverdade: às vezesas trevas vêmde lugares inesperados.",
+            "price": 25.9
+        },
+        {
+            "id": 4,
+            "title": "Cidade dos Ossos: Instrumentos Mortais",
+            "originalTitle": "The Mortal Instruments: City of Bones",
+            "genre": "FANTASIA/AVENTURA",
+            "age": "16 ANOS",
+            "author": "C. CLARE, R. SUSSEKIND",
+            "origin": "ESTADOS UNIDOS",
+            "stars": 4,
+            "poster": "https://statics.livrariacultura.net.br/products/capas_lg/198/22190198.jpg",
+            "description": "O primeiro volume da série best-seller Os Instrumentos Mortais, de Cassandra Clare Depois ser apresentada ao Mundo de Sombras e a Jace ― um Caçador que tem a aparência de um anjo, mas a língua tão afiada quanto Lúcifer ―, Clary Fray só queria que sua vida voltasse ao normal. Mas o que é “normal” quando você é uma Caçadora de Sombras assassina de demônios, sua mãe está em um coma magicamente induzido e você de repente descobre que criaturas como lobisomens, vampiros e fadas realmente existem? Para complicar ainda mais, alguém na cidade de Nova York está matando jovens do Submundo. Quando o segundo dos Instrumentos Mortais, a Espada da Alma, é roubada, a aterrorizante Inquisidora chega ao Instituto para investigar ― e suas suspeitas caem diretamente sobre Jace. Como Clary pode impedir os planos malignos de Valentim se Jace está disposto a trair tudo aquilo em que acredita para ajudar o pai? Nessa sequência de tirar o fôlego da série Os Instrumentos Mortais, Cassandra Clare atrai os leitores de volta para o lado mais obscuro do submundo de Nova York, onde amar nunca é seguro e o poder se torna a mais mortal das tentações.",
+            "price": 25.9
+        }
+    ]
+}
